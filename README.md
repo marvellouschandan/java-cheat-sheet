@@ -14,14 +14,14 @@ Review Java 9 Concepts at Jet Speed.
 ## Background
 
 ### Popularity of Java
-- Platform Independent or Portable
+- Platform Independent or Portable.However, the same byte code of java works on any platform doesn't mean that we only use java and not any other language. The other languages like python, kotlin, C# are also having their own specific features which can prove far better tahn java.
 - Object Oriented Language
 - Security 
 - Rich API
 - Great IDE's
 - Omnipresent 
    - Web Applications (Java EE (JSP, Servlets), Spring, Struts..)
-   - Mobile Apps(Android) 
+   - Mobile Apps(Android) .But now a days, due to its increasing utility, Kotlin is being used.
    - Microservices (Spring Boot)
 
 ### Platform Independence
